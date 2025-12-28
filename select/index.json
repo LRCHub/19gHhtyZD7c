@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Softly",
+  "base_artist": "BE:FIRST",
+  "createdAt": "2025-12-28T15:57:38.443969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Walk Softly On This Heart Of Mine",
+      "artist": "The Kentucky Headhunters",
+      "has_synced": true,
+      "path": "select/01_Walk_Softly_On_This_Heart_Of_Mine_The_Kentucky_Headhunters.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Walk Softly On This Heart Of Mine (Album Version)",
+      "artist": "The Kentucky Headhunters",
+      "has_synced": true,
+      "path": "select/02_Walk_Softly_On_This_Heart_Of_Mine_(Album_Version)_The_Kentucky_Headhunters.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Killing Me Softly",
+      "artist": "Fugees",
+      "has_synced": false,
+      "path": "select/03_Killing_Me_Softly_Fugees.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Killing Me Softly With His Song - Live at The Brixton Academy",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/04_Killing_Me_Softly_With_His_Song_-_Live_at_The_Brixton_Academy_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Killing Me Softly With His Song [Live at the Brixton Academy]",
+      "artist": "The Fugees",
+      "has_synced": true,
+      "path": "select/05_Killing_Me_Softly_With_His_Song_[Live_at_the_Brixton_Academy]_The_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Gloaming. (Softly Open Our Mouths In The Cold.)",
+      "artist": "Radiohead",
+      "has_synced": true,
+      "path": "select/06_The_Gloaming._(Softly_Open_Our_Mouths_In_The_Cold.)_Radiohead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Softly Over",
+      "artist": "Yazoo",
+      "has_synced": true,
+      "path": "select/07_Softly_Over_Yazoo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come Down Softly",
+      "artist": "Lemonade",
+      "has_synced": true,
+      "path": "select/08_Come_Down_Softly_Lemonade.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Softly",
+      "artist": "Lamb",
+      "has_synced": true,
+      "path": "select/09_Softly_Lamb.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mama Lay Softly On The Riverbed",
+      "artist": "Morrissey",
+      "has_synced": true,
+      "path": "select/10_Mama_Lay_Softly_On_The_Riverbed_Morrissey.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "She Broke You So Softly",
+      "artist": "Mojave 3",
+      "has_synced": false,
+      "path": "select/11_She_Broke_You_So_Softly_Mojave_3.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Come Softly to Me",
+      "artist": "Nick Kamen",
+      "has_synced": true,
+      "path": "select/12_Come_Softly_to_Me_Nick_Kamen.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Softly as I Leave You",
+      "artist": "Patti LaBelle",
+      "has_synced": false,
+      "path": "select/13_Softly_as_I_Leave_You_Patti_LaBelle.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "To Know Someone Deeply Is To Know Someone Softly",
+      "artist": "Terence Trent D'Arby",
+      "has_synced": true,
+      "path": "select/14_To_Know_Someone_Deeply_Is_To_Know_Someone_Softly_Terence_Trent_D'Arby.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Softly",
+      "artist": "Rhye",
+      "has_synced": true,
+      "path": "select/15_Softly_Rhye.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Softly (Bola mix)",
+      "artist": "Lamb",
+      "has_synced": false,
+      "path": "select/16_Softly_(Bola_mix)_Lamb.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Killin' Em Softly",
+      "artist": "Camp Lo",
+      "has_synced": false,
+      "path": "select/17_Killin'_Em_Softly_Camp_Lo.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Singing Softly To Me",
+      "artist": "Kings of Convenience",
+      "has_synced": true,
+      "path": "select/18_Singing_Softly_To_Me_Kings_of_Convenience.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Softly",
+      "artist": "BE:FIRST",
+      "has_synced": false,
+      "path": "select/pl_01_Softly_BE_FIRST.txt"
+    }
+  ]
+}
